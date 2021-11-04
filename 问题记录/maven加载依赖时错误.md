@@ -1,0 +1,1 @@
+1 可能是依赖管理<dependencyManagement>有，但仓库为下载过该依赖，子项目使用时会出现依赖unknown错误

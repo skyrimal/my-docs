@@ -1,0 +1,1 @@
+user_list 同时存在于gp和mysql
